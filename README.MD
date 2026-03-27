@@ -1,15 +1,5 @@
 # Call of Duty: Black Ops Zombies - Remix
 
-## Download
-
-[Download](https://github.com/5and5/BO1-Remix/releases/download/v1.7.0/BO1-Remix.zip)
-
-## How to Install
-
-[Automatic](https://github.com/5and5/BO1-Remix/releases/tag/Installer)
-
-[Manual](https://github.com/5and5/BO1-Remix/releases)
-
 ## Leaderboards
 
 [Leaderboards](https://docs.google.com/spreadsheets/d/14oRX3aQFWWz5VaLz3B_nt_YOe-9zHf3HTQNuCU9Xqcs/)
